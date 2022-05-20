@@ -1,0 +1,30 @@
+.deny{
+    margin: 5% !important;
+}
+.hpage{
+    /* background-color: #61918c; */
+    /* max-width: 978px; */
+    /* background: #6a8296;  fallback for old browsers */
+    /* background-image: url("/src/Images/blog-bg.jpg"); */
+
+/*background: -webkit-linear-gradient(to right, #A5CC82, #00467F);  /* Chrome 10-25, Safari 5.1-6 */
+/*background: linear-gradient(to right, #A5CC82, #00467F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+.nvb{
+    /* background-color: #587b97 !important; */
+    color: #FFFFFF !important;
+}
+
+.bgd{
+    /* background-image: url("/src/Images/blog-bg.jpg"); */
+
+    /* background-color: #6a8296 !important; */
+     position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    /* color: #FFF !important; */
+}

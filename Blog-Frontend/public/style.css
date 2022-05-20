@@ -1,0 +1,6 @@
+body{
+    background-image: url("blog-bg.jpg") ;
+    height: 100%;
+    background-size: cover;
+    /* background-repeat: repeat-y; */
+}
