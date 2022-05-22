@@ -47,6 +47,7 @@ function Createpost(props){
           </p>
           <form className="login-form__group" onSubmit={(e) => onSubmit(e)}>
             <input
+              minLength={8}
               name="title"
               type="text"
               value={blog.title}
@@ -55,6 +56,7 @@ function Createpost(props){
               placeholder="Title"
             />
             <textarea
+              minLength={10}
               name="description"
               className="border-0 my-1 input-field-create ww"
               value={blog.description}
